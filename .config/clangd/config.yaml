@@ -1,0 +1,4 @@
+CompileFlags:
+  If:
+    Path-Match: ".*\.cpp"
+  Add: [ "-std=c++20", "-Wall" ]
