@@ -1,0 +1,10 @@
+{
+    "oh-my-zsh": "~/oh-my-zhs",
+    ".clang-formats": "~/.clang-formats",
+    ".p10k.zsh": "~/.p10k.zsh",
+    "tmux_attach_session.sh": "~/tmux_attach_session.sh",
+    ".tmux": "~/.tmux",
+    ".config/clang": "~/.config/clang",
+    ".config/dlv": "~/.config/dlv",
+    ".config/nvim": "~/.config/nvim"
+}
